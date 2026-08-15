@@ -1,4 +1,4 @@
-I work as a Software Engineering Intern at Databbricks. Previously I was a machine learning engineer at [Hamina Wireless](https://www.hamina.com/). I study mathematics at [Aalto University](https://www.aalto.fi/en).
+I work as a Software Engineering Intern at Databricks. Previously I was a machine learning engineer at [Hamina Wireless](https://www.hamina.com/). I study mathematics at [Aalto University](https://www.aalto.fi/en).
 
 I love mathematics and computers. Very much into philosophy as well.
 
